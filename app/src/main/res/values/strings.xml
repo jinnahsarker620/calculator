@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="tab_scientific">Scientific</string>
+    <string name="tab_currency">Currency</string>
+    <string name="tab_unit">Unit Converter</string>
+    <string name="desc_history">Calculation history</string>
+    <string name="desc_backspace">Backspace</string>
+    <string name="desc_clear">Clear</string>
+    <string name="desc_equals">Equals</string>
+    <string name="desc_swap">Swap currencies</string>
+    <string name="desc_expand_scientific">Toggle scientific keypad</string>
+    <string name="desc_settings">Settings</string>
+</resources>

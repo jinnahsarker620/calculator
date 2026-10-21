@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "All-in-one dark themed scientific calculator inspired by Google Calculator with currency and unit converters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
